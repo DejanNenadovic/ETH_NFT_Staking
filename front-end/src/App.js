@@ -12,7 +12,7 @@ function App() {
       </div>
       <div className='col-sm-4  text-black'>
       <div style={{height:'10%'}}></div>
-      <h2 className=''>NFT Staking</h2>
+      <h2 className=''>NFT Staking website</h2>
 
       </div>
       <div className='col-sm-4  text-black'>
